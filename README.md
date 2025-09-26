@@ -29,6 +29,7 @@ Each day's work is documented with:
 - **Collaboration** in large-scale projects
 
 ## 📊 Weekly Tasks List 
+- [Day 1 - Introduction to Verilog RTL Design & Synthesis](DAY%201/Day_1_Progress.md)
 - [Day 2 - Timing libs, hierarchical vs flat synthesis and efficient flop coding styles](DAY%202/Day_2_Progress.md)
 
 
