@@ -17,9 +17,9 @@ Welcome to my documentation of Day 2 progress in the **VSD Tapeout Program**. Th
 ```
 gvim ../lib/sky130_fd_Sc_hd_tt_025C_1v80.lib
 ```
-![alt text](<WhatsApp Image 2025-09-26 at 05.27.13_91fac3b1.jpg>)
+![alt text](<Opening Command .lib.jpg>)
 
-![alt text](<WhatsApp Image 2025-09-26 at 05.33.27_2af9b0c3.jpg>)
+![alt text](<.lib screenshot.jpg>)
 ### Overview
 Currently learning about the library files (.lib) in the SkyWater 130nm technology node. These files are fundamental to the digital design flow and contain critical information for synthesis and timing analysis.
 
@@ -90,7 +90,7 @@ endmodule
 - **Instance-Based**: Each module instance appears as a separate entity
 #### Generated Netlist Graphical View (Hierarchical) 
 
-![alt text](<WhatsApp Image 2025-09-26 at 05.41.57_251163c7.jpg>)
+![alt text](<Hierarchial synthesis.jpg>)
 
 #### Generated Netlist (Hierarchical)
 ```verilog
@@ -171,7 +171,7 @@ flatten
 - **Direct Gate Implementation**: Logic gates are directly instantiated
 
 #### Generated Netlist Graphical View (Flat)
- ![alt text](<WhatsApp Image 2025-09-26 at 06.04.37_6f76b358.jpg>)
+ ![alt text](<Flat synthesis.jpg>)
 
 #### Generated Netlist (Flat)
 ```verilog
@@ -232,7 +232,7 @@ synth -top <module_name>
 
 This command controls which module serves as the synthesis target.
 #### Generated Graphical View
-![alt text](<WhatsApp Image 2025-09-26 at 06.16.28_c96f7606.jpg>)
+![alt text](<graphical view of synthesised submodule.jpg>)
 
 #### Use Cases and Benefits
 
