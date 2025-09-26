@@ -29,7 +29,7 @@ Each day's work is documented with:
 - **Collaboration** in large-scale projects
 
 ## 📊 Weekly Tasks List 
-- [Day 2 - Timing libs, hierarchical vs flat synthesis and efficient flop coding styles](Day%202/day-0-task-0-tool-installation.md)
+- [Day 2 - Timing libs, hierarchical vs flat synthesis and efficient flop coding styles](DAY%202/README.md)
 
 
 
