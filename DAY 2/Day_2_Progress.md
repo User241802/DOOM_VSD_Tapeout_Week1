@@ -418,10 +418,10 @@ endmodule
 - Non-blocking assignment (`<=`) for proper sequential logic
 
 **Simulation Waveform:**
-![alt text](<WhatsApp Image 2025-09-26 at 07.32.08_ba49c383.jpg>)
+![alt text](<async res flop waveform.jpg>)
 
 **Synthesized Circuit:**
-![alt text](<WhatsApp Image 2025-09-26 at 07.52.41_1154d031.jpg>)
+![alt text](<async res flop schem.jpg>)
 
 ---
 
@@ -450,10 +450,10 @@ endmodule
 - Useful for initialization and control logic
 
 **Simulation Waveform:**
-![alt text](<WhatsApp Image 2025-09-26 at 07.35.47_2db24016.jpg>)
+![alt text](<async set flop waveform.jpg>)
 
 **Synthesized Circuit:**
-![alt text](<WhatsApp Image 2025-09-26 at 08.06.31_f3e84255.jpg>)
+![alt text](<async set flop schem.jpg>)
 
 ---
 
@@ -483,10 +483,10 @@ endmodule
 - Requires active clock for reset operation
 
 **Simulation Waveform:**
-![alt text](<WhatsApp Image 2025-09-26 at 07.45.45_e8ef6a6a.jpg>)
+![alt text](<sync res flop waveform.jpg>)
 
 **Synthesized Circuit:**
-![alt text](<WhatsApp Image 2025-09-26 at 08.47.44_bc3cff1d.jpg>)
+![alt text](<sync res flop schem.jpg>)
 
 ---
 
